@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class ChangeWall : MonoBehaviour
 {
@@ -22,6 +20,7 @@ public class ChangeWall : MonoBehaviour
         foreach (Transform item in _wallParent)
         {
             item.GetComponent<MeshRenderer>().material = newWall;
+            Debug.Log($"Child {item.name} is at position {item.position}");
         }
     }
     #endregion Methods
