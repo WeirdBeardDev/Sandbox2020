@@ -5,10 +5,7 @@
     #endregion Members
 
     #region Ctor
-    public GooberObjective(float targetModifier)
-    {
-        TargetValue = targetModifier * _baseTarget;
-    }
+    public GooberObjective(float targetModifier) => TargetValue = targetModifier * _baseTarget;
     #endregion Ctor
 
     #region Properties

@@ -5,10 +5,7 @@
     #endregion Members
 
     #region Ctor
-    public WidgetObjective(float targetModifier)
-    {
-        TargetValue = targetModifier * _baseTarget;
-    }
+    public WidgetObjective(float targetModifier) => TargetValue = targetModifier * _baseTarget;
     #endregion Ctor
 
     #region Properties

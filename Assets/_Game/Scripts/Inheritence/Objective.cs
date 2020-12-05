@@ -11,9 +11,6 @@
     #endregion Properties
 
     #region Methods
-    public virtual void CompleteGoal()
-    {
-        IsComplete = true;
-    }
+    public virtual void CompleteGoal() => IsComplete = true;
     #endregion Methods
 }

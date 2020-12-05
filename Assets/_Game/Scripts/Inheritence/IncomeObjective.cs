@@ -5,10 +5,7 @@
     #endregion Members
 
     #region Ctor
-    public IncomeObjective(float targetModifier)
-    {
-        TargetValue = targetModifier * _baseTarget;
-    }
+    public IncomeObjective(float targetModifier) => TargetValue = targetModifier * _baseTarget;
     #endregion Ctor
 
     #region Properties
