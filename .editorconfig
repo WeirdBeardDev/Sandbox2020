@@ -1,0 +1,13 @@
+root=true
+
+[*.cs]
+# Remove IDE0051 Remove unused private member; Unity's MonoBehaviour methods (Awake, Start, etc) are viewed as unused
+dotnet_diagnostic.IDE0051.severity = none
+# Affects IDE0090 Simply `new` expression; set to `true` for C# 9.0; otherwise set to `false`
+csharp_style_implicit_object_creation_when_type_is_apparent = false
+
+[Assets/TextMesh Pro/**.cs]
+generated_code = true
+
+
+# https://docs.microsoft.com/en-us/dotnet/fundamentals/code-analysis/style-rules/
