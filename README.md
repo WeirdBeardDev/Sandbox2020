@@ -1,5 +1,5 @@
 # Sandbox2020
-A sandbox project using Unity 2020.
+A sandbox project using Unity 2020.2.0f1.
 
 # IEnumerable Example Scene
 I wrote an [article](http://weirdbearddev.com/2020/10/19/unitys-transform-implements-ienumerable/) and provided sample code about how `Transform` implements `IEnumerable` and described how you can use that to change materials on objects.
