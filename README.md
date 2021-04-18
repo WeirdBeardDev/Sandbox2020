@@ -1,7 +1,7 @@
 # Sandbox2020
 [![Unity 2020.3](https://img.shields.io/badge/unity-2020.3-blue.svg)](https://unity3d.com/get-unity/download)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/weirdbearddev?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/weirdbearddev?style=social)](https://twitter.com/intent/user?screen_name=weirdbearddev)
 
 # IEnumerable Example Scene
 I wrote an [article](http://weirdbearddev.com/2020/10/19/unitys-transform-implements-ienumerable/) and provided sample code about how `Transform` implements `IEnumerable` and described how you can use that to change materials on objects.
