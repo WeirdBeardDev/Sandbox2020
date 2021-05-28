@@ -13,5 +13,6 @@ I wrote an [article](http://weirdbearddev.com/2020/12/05/building-a-random-quest
 ![Results](https://dl.dropbox.com/s/hi2vfj759gwpai0/RandomQuestFactory-Result.png?dl=0)
 
 # Custom Character Vol1
-I needed a few test characters for a game I'm developing.  I added the free [Custom Character 2D Vol.1](https://assetstore.unity.com/packages/2d/characters/custom-character-2d-vol-1-65144) package.  I took the existing sample character and created two more.
-![Custom Characters](https://dl.dropbox.com/s/d1zmiz6m8xj3snp/TestCharacters.png?dl=0 =300x247)
+I needed a few test characters for a game I'm developing.  I added the free [Custom Character 2D Vol.1](https://assetstore.unity.com/packages/2d/characters/custom-character-2d-vol-1-65144) package.  I took the existing sample character and created two more.  
+
+<img src="https://dl.dropbox.com/s/d1zmiz6m8xj3snp/TestCharacters.png?dl=0" width="300" height="247" />
